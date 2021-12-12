@@ -1,0 +1,11 @@
+/Users/davincii1889/Downloads/2048-rs-master/target/release/deps/num_bigint-9fbf70b837eefd23.rmeta: /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/lib.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/macros.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/biguint.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/algorithms.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/bigint.rs
+
+/Users/davincii1889/Downloads/2048-rs-master/target/release/deps/libnum_bigint-9fbf70b837eefd23.rlib: /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/lib.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/macros.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/biguint.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/algorithms.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/bigint.rs
+
+/Users/davincii1889/Downloads/2048-rs-master/target/release/deps/num_bigint-9fbf70b837eefd23.d: /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/lib.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/macros.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/biguint.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/algorithms.rs /Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/bigint.rs
+
+/Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/lib.rs:
+/Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/macros.rs:
+/Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/biguint.rs:
+/Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/algorithms.rs:
+/Users/davincii1889/.cargo/registry/src/github.com-1ecc6299db9ec823/num-bigint-0.1.36/src/bigint.rs:
